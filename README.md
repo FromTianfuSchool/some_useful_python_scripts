@@ -7,3 +7,5 @@ some useful scripts ,and try to learn pyhton
     学习了sched模块，用来定时启动terminal
 ### define_wallpaper_with_font.py
     一个用于制作带文字壁纸的脚本
+### premier_homework.py
+    小学生算术作业生成
